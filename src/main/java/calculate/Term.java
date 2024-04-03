@@ -1,3 +1,5 @@
+package calculate;
+
 public class Term {
     private int coefficient;
     private int power;
